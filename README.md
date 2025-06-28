@@ -1,2 +1,3 @@
 # Java-Project
 The Student Management System is a desktop-based Java application built using the Swing GUI framework. It is designed to manage student academic data and weekly attendance records efficiently, providing a user-friendly interface for data input, processing, and display.
+The system allows users to enter essential student details such as name, roll number, marks in 3–5 subjects, and 7-day attendance represented in a binary format (e.g., 1010110). Using this data, the application automatically calculates the average marks and assigns a grade based on predefined criteria (A+, A, B, or Needs Improvement). Attendance is tracked using bitwise operations, allowing efficient evaluation of which days a student was present.
